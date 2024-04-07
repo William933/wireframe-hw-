@@ -8,3 +8,11 @@
     text-align: left;
     font-size: 30px;
 }
+
+body{
+    background-color: rgb(66, 29, 100);
+}
+
+.button{
+    align-items: center;
+}
